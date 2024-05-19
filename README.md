@@ -1,1 +1,3 @@
-# ChatGPT 客户端
+# ChatMan
+
+## v1.0.0
